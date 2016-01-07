@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING/DTD BEAN/EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+	<description>Collection Server</description>
+
+
+	<!-- <import resource="applicationContext-dataSource.xml"/>
+	模板
+	<import resource="applicationContext-template.xml"></import>
+	正式环境时打开下面配置	
+	<import resource="applicationContext-threadPool.xml"></import> -->
+
+</beans>
